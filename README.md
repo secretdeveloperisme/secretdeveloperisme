@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Name Is Nguyen Hoang Linh
+My Name Is Nguyen Hoang Linh <br>
 My marjor is Information Technology
 ```
 function helloworld(){
