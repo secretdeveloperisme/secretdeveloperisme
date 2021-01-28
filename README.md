@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Name Is Nguyen Hoang Linh
+My marjor is Information Technology
 ```
 function helloworld(){
   console.log("hello world");
 }
 ```
-| First Header  | Second Header |
+|  Order | Programing Languages |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   1   | Java   |
+| 2 | JavaScript  |
