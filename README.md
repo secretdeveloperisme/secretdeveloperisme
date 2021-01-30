@@ -1,21 +1,11 @@
-### Hi there 👋
-
-<!--
-**secretdeveloperisme/secretdeveloperisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi there 👋
+### My Name Is Nguyen Hoang Linh <br>
+### My marjor is Information Technology**
 
 - 🔭 I’m currently working on IT
-- 🌱 I’m currently learning University
+- 🌱 I’m currently learning  at Can Tho University
 - 👯 I’m looking to collaborate on google
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My Name Is Nguyen Hoang Linh <br>
-My marjor is Information Technology
+- 💬 My email is : linh072217@gmail.com
 ```
 function helloworld(){
   console.log("hello world");
