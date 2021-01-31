@@ -1,6 +1,6 @@
 # **Hi there 👋**
-##### My Name Is Nguyen Hoang Linh
-##### My marjor is Information Technology
+##### **My Name Is Nguyen Hoang Linh**
+##### **My marjor is Information Technology**
 
 - 🔭 I’m currently working on IT
 - 🌱 I’m currently learning  at Can Tho University
