@@ -28,10 +28,13 @@ public class Hello{
 }
 ```
 ```php
+  <?php
   function hello(){
     $hello = "hello"."world";
     echo $hello;
   }
+  hello();
+  ?>
 ```
 |  Order | Programing Languages |
 | ------------- | :-------------: |
