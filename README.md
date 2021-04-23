@@ -27,6 +27,12 @@ public class Hello{
   }
 }
 ```
+```php
+  function hello(){
+    $hello = "hello"."world";
+    echo $hello;
+  }
+```
 |  Order | Programing Languages |
 | ------------- | :-------------: |
 |   0   | Java   |
