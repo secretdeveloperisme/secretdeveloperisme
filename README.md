@@ -58,4 +58,9 @@ public class Hello{
 ![Android Studio ](https://camo.githubusercontent.com/c2aba91675bbbd86828b02ad948f4fc5ea4b7e231f4ad23b5364b98c48cb14a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323053747564696f2d3030383637382e7376673f6c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465)
 ## Here is my web site [hoanglinhplus][hlp]
 [hlp]: https://www.hoanglinhplus.cf
-
+## Contact with me:
+[![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/secretdeveloperisme)
+[![gmail](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linh072217@gmail.com)
+[![gmail](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoanglinhplus)
+[![gmail](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/hoanglinhpluspage)
