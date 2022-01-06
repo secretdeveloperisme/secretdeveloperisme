@@ -14,6 +14,8 @@
     - Football
   - Traveling
   - Connect to the Internet
+## Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
+## Here is my CV [![hoanglinhplus](https://img.shields.io/badge/CV-Curriculum%20Vitae-blue)][cv]
 ## Code 
 ```javascript
 function hello(){
@@ -55,8 +57,6 @@ public class Hello{
 ![Stack Overflow](https://camo.githubusercontent.com/26e24924e6b305b420fe35cac175ab285d3d9faa7facd26e8a98c1f4256f768d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465)
 ![Git](https://camo.githubusercontent.com/8e7b90f62961f6df73ab269e33ed19fdb931af5a67088a66419d0778cd39c82d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-## Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
-[hlp]: https://www.hoanglinhplus.cf
 ## Contact with me:
 [![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/secretdeveloperisme)
 [![gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hoanglinhplus/)
@@ -64,3 +64,6 @@ public class Hello{
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linh072217@gmail.com)
 [![gmail](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoanglinhplus)
 [![gmail](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/hoanglinhpluspage)
+
+[hlp]: https://www.hoanglinhplus.cf
+[cv]: https://secretdeveloperisme.github.io/Curriculum_Vitae/HoangLinhPlusCV.html
