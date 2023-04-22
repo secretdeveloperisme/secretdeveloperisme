@@ -27,6 +27,11 @@ public class Hello{
   }
 }
 ```
+```rust
+fn main(){
+  println!("Hello my name is {}, I am glad to share knowledge with you", "Linh");
+}
+```
 ```CPP
 #include<iostream>
 using namespace std;
@@ -44,6 +49,7 @@ function hello(){
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secretdeveloperisme)](https://github.com/anuraghazra/github-readme-stats)
 # Programming languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
