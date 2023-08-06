@@ -1,6 +1,6 @@
 # **Hi there 👋**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Nguyen+Hoang+Linh;My+nickname+is+hoanglinhplus)][hlp]
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=I+am+a+Sofware+Developer)][hlp]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=I+am+a+Software+Developer)][hlp]
 ![hoanglinhplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=secretdeveloperisme&show_icons=true&theme=radical)
 - 🔭 I’m currently working on IT
 - 🌱 I have graduated at Can Tho University
