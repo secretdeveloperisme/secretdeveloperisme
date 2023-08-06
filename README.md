@@ -1,17 +1,17 @@
 # **Hi there 👋**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Nguyen+Hoang+Linh;My+nickname+is+hoanglinhplus)][hlp]
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=My+Major+is+Information+Technology)][hlp]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=I+am+a+Sofware+Developer)][hlp]
 ![hoanglinhplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=secretdeveloperisme&show_icons=true&theme=radical)
 - 🔭 I’m currently working on IT
-- 🌱 I’m currently learning  at Can Tho University
+- 🌱 I have graduated at Can Tho University
 -  🔑 I'm currently working with **💻Web**
 - 💬 My email is : linh072217@gmail.com
 - ❤️ My favorites are:
   - Code
   - Reading Book
   - Sports
-    - Badminton
     - Football
+    - Badminton
   - Traveling
   - Connect to the Internet
 ## Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
@@ -61,12 +61,10 @@ function hello(){
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ## Database and cloud hosting
-![MYSQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ## Software and Tools
 ![IntelliJ Idea](	https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -74,6 +72,7 @@ function hello(){
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![ChatGTP](https://img.shields.io/badge/AI-ChatGPT-F68212.svg?style=for-the-badge&logo=OpenAI")
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ## Contact with me:
 [![gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/secretdeveloperisme)
