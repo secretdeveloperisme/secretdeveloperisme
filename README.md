@@ -3,17 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=I+am+a+Software+Developer)][hlp]
 
 # About me
--  🔑 I'm currently working with **💻Web Backend**
+> I am a passionate backend developer with a strong interest in exploring the inner workings of technologies and enhancing system performance and productivity. I thrive on solving backend challenges and am always eager to learn new skills and technologies. Known for being responsible and hard-working, I seek to contribute to and grow in a dynamic, competitive team environment that will further develop my technical and collaboration skills.
 - 🌱 I have graduated at Can Tho University
 - 💬 My email is linh072217@gmail.com
-- ❤️ My favorites are:
-  - Code
-  - Reading Book
-  - Sports: Badminton, Soccer
-  - Traveling
-  - Connect to the Internet
-### Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
-### Here is my CV [![hoanglinhplus](https://img.shields.io/badge/CV-Curriculum%20Vitae-blue)][cv]
+- ❤️ My favorites are: Programming, Reading Book, Badminton, Soccer, Traveling, Connect to the Internet.
+ 
+#### Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
+#### Here is my CV [![hoanglinhplus](https://img.shields.io/badge/CV-Curriculum%20Vitae-blue)][cv]
 # Moreover
 
 ```java
@@ -25,37 +21,39 @@ public class Hello{
   }
 }
 ```
+```CPP
+// C++
+#include<iostream>
+
+int main(int argc, char* argv[]){
+  std::cout << "I'm always willing to hear what people want." << '\n';
+  return 0;
+}
+```
 ```rust
 // Rust
 fn main(){
-  println!(" I am glad to share knowledge with you");
+  println!(" I am glad to share my knowledge to you");
 }
 ```
-```javascript
+<!-- ```javascript
 // Javascript
 function hello(){
   let language = "Javascript"
   console.log("I'm always willing to hear what people want.");
 }
-```
-<!-- ```CPP
-#include<iostream>
-using namespace std;
-
-int main(int argc, char* argv[]){
-  cout << "I'm always willing to hear what people want." << endl;
-  return 0;
-}
 ``` -->
+
 ## Programming languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![RUST](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-## Framework and Library
+## Frameworks and Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -63,6 +61,13 @@ int main(int argc, char* argv[]){
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+## Networking
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0054?style=for-the-badge&&logoColor=white)
+![Socket programming](https://img.shields.io/badge/Socket_programming-330F63?style=for-the-badge&&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-E4405F?style=for-the-badge&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-2EC866?style=for-the-badge&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-FFA116?style=for-the-badge&logoColor=white)
+![SNMP](https://img.shields.io/badge/SNMP-A6CE39?style=for-the-badge&logoColor=white)
 ## Database and cloud hosting
 ![Mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,9 +78,10 @@ int main(int argc, char* argv[]){
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![ChatGTP](https://img.shields.io/badge/AI-ChatGPT-F68212.svg?style=for-the-badge&logo=OpenAI")
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![WireShark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-F68212.svg?style=for-the-badge&logo=OpenAI")
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
