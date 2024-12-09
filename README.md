@@ -4,12 +4,12 @@
 
 # About me
 > I am a passionate backend developer with a strong interest in exploring the inner workings of technologies and enhancing system performance and productivity. I thrive on solving backend challenges and am always eager to learn new skills and technologies. Known for being responsible and hard-working, I seek to contribute to and grow in a dynamic, competitive team environment that will further develop my technical and collaboration skills.
-- 🌱 I have graduated at Can Tho University
 - 💬 My email is linh072217@gmail.com
+- 🔑 My majors are: Backend, Database, Networking, Linux
 - ❤️ My favorites are: Programming, Reading Book, Badminton, Soccer, Traveling, Connect to the Internet.
- 
-#### Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
-#### Here is my CV [![hoanglinhplus](https://img.shields.io/badge/CV-Curriculum%20Vitae-blue)][cv]
+- 🎓 I have graduated at Can Tho University
+- 🔗 Here is my web site [![hoanglinhplus](https://img.shields.io/badge/HLP-www.hoanglinhplus.cf-brightgreen)][hlp]
+- 💼 Here is my CV [![hoanglinhplus](https://img.shields.io/badge/CV-Curriculum%20Vitae-blue)][cv]
 # Moreover
 
 ```java
@@ -59,7 +59,7 @@ function hello(){
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Socket](https://img.shields.io/badge/WebSocket-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ## Networking
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0054?style=for-the-badge&&logoColor=white)
@@ -84,7 +84,7 @@ function hello(){
 ![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-F68212.svg?style=for-the-badge&logo=OpenAI")
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ## Statistics
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=secretdeveloperisme&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretdeveloperisme&layout=compact&theme=dark&hide_border=true" />|
 | ------------- | ------------- |
